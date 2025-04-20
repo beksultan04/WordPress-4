@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Node / build tools (если используешь)
+node_modules/
+dist/
+
+# Logs
+*.log
